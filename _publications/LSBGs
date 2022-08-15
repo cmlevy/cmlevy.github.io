@@ -1,7 +1,7 @@
 ---
 title: "Detecting Low Surface Brightness Galaxies with Mask R-CNN"
 collection: publications
-permalink: /publication/MCMS
+permalink: /publication/LSBGs
 excerpt: 'Low surface brightness galaxies (LSBGs), galaxies that are fainter than the dark
 night sky, are famously difficult to detect. Nonetheless, studies of these galaxies are
 essential to improve our understanding of the formation and evolution of low-mass
