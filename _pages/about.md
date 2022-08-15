@@ -20,11 +20,14 @@ Of course, I don't spend ALL my time doing physics. I would go crazy...
 
 Music
 ------
-One of my major non-academic interests is in music. I started to become very passionate about music during my freshman year. This is when I began learning piano, classical at first. It's also when I was first exposed to jazz beyond elevator music through my first year seminar course, "A History of Jazz".
+One of my major non-academic interests is in music. I started to become very passionate about music during my freshman year. This is when I began learning piano, classical at first. It's also when I was first exposed to jazz beyond elevator music through my first year seminar course, "A History of Jazz." I love listening to modern jazz compositions and I usually hear new pieces from this great Apple Music (don't judge me) [playlist](https://music.apple.com/us/playlist/jazz-currents/pl.07405f59596b402385451fa14695eec4). One of my favorite things to do is to go listen to jazz live, preferrably in some dark, moody bar like [Smalls](https://www.smallslive.com/) in NYC. 
+
+Jazz and classical aside, I listen to a variety of things including alternative (e.g. [Radiohead](https://www.radiohead.com/)), reggae (e.g. [Chronixx](https://www.youtube.com/watch?v=dmGkl6Zv0G4&ab_channel=ChronixxMusic)), dancehall (e.g. [Govana](https://www.youtube.com/watch?v=ERpkRVPGgJg&ab_channel=GovanaVEVO)), classic rock (e.g. [Hendrix](https://www.youtube.com/watch?v=rXwMrBb2x1Q&ab_channel=JimiHendrixVEVO)), and electronic (e.g. [Polo and Pan](https://www.youtube.com/watch?v=eMKqjO1jyGU&ab_channel=Ekleroshockrecords)).
+
 
 Sports
 ------
-I am not incredibly athletic, but I do enjoy playing and watching a variety of sports. My favorite to play include tennis, soccer, frisbee, and football. I love going to live sporting events, particularly basketball, hockey, and soccer. I am also a sucker for grand slam tournaments and love watching Nadal play!
+I am not incredibly athletic, but I do enjoy playing and watching a variety of sports. My favorite to play include tennis, soccer (GO CHELSEA), frisbee, and football. I love going to live sporting events, particularly basketball, hockey, and soccer. I am also a sucker for grand slam tournaments and love watching Nadal play!
 
 DEI Initiatives
 ------
