@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Caleb Michael Levy"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Caleb Michael Levy"
+description              : &description "Caleb is a senior at Colgate University who hopes to pursue a Ph.D. in theoretical physics. He is specifically interested in doing research in quantum gravity, black hole information, and string theory, though he is open to exploring other theoretical avenues, such as algebraic QFT, condensed matter theory, quantum information, and lattice QCD. When he is not thinking about physics, he pursues his interest in music. He began learning piano at the start of 2019 and enjoys playing jazz and modern classical pieces. He primarily enjoys listening to modern jazz and alternative music."
+url                      : https://cmlevy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "cmlevy/cmlevy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Caleb Michael Levy"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Senior at Colgate University hoping to pursue a PhD in theoretical physics."
+  location         : "Hamilton, NY"
+  employer         : "Colgate University"
+  googlescholar    : "https://scholar.google.com/citations?user=_Lf3FoQAAAAJ&hl=en"
+  email            : "cmlevy@colgate.edu"
+  researchgate     : "https://www.researchgate.net/profile/Caleb-Levy-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "cmlevy"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/caleb-michael-levy/"
+  orcid            : "https://orcid.org/0000-0001-5084-9406"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
