@@ -1,15 +1,25 @@
 ---
-title: "Paper Title Number 1"
+title: "Detecting Low Surface Brightness Galaxies with Mask R-CNN"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Low surface brightness galaxies (LSBGs), galaxies that are fainter than the dark
+night sky, are famously difficult to detect. Nonetheless, studies of these galaxies are
+essential to improve our understanding of the formation and evolution of low-mass
+galaxies. In this work, we train a deep learning model using the Mask R-CNN
+framework on a set of simulated LSBGs inserted into images from the Dark Energy
+Survey (DES) Data Release 2 (DR2). This deep learning model is combined
+with several conventional image pre-processing steps to develop a pipeline for the
+detection of LSBGs. We apply this pipeline to the full DES DR2 coadd image
+dataset, and preliminary results show the detection of 22 large, high-quality LSBG
+candidates that went undetected by conventional algorithms. Furthermore, we find
+that the performance of our algorithm is greatly improved by including examples
+of false positives as an additional class during training.'
+date: 2021-01-01
+venue: 'Machine Learning and the Physical Sciences Workshop at the 35th Conference on Neural Information Processing Systems (NeurIPS)'
+paperurl: 'https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_111.pdf'
+citation: 'Machine Learning and the Physical Sciences Workshop at the 35th Conference on Neural Information Processing Systems (NeurIPS), Remote, Dec 2021. Levy, C., Drlica-Wagner, A., et al. &quot;Detecting Low Surface Brightness Galaxies with Mask R-CNN&quot;.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ml4physicalsciences.github.io/2021/files/NeurIPS_ML4PS_2021_111.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Machine Learning and the Physical Sciences Workshop at the 35th Conference on Neural Information Processing Systems (NeurIPS), Remote, Dec 2021. Levy, C., Drlica-Wagner, A., et al. "Detecting Low Surface Brightness Galaxies with Mask R-CNN".
