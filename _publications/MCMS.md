@@ -6,9 +6,9 @@ excerpt: 'In recent years, the usefulness of astrophysical objects as dark matte
 date: 2021-10-27
 venue: 'Physical Review D'
 paperurl: 'https://doi.org/10.1103/PhysRevD.104.083033'
-citation: 'C. Ilie and C. Levy. *Multicomponent multiscatter capture of dark matter*. 2021. Phys. Rev. D 104, 083033.'
+citation: 'C. Ilie and C. Levy. Multicomponent multiscatter capture of dark matter. 2021. Phys. Rev. D 104, 083033.'
 ---
 
 [Download paper here](https://arxiv.org/pdf/2105.09765.pdf)
 
-Recommended citation: C. Ilie and C. Levy. <em>Multicomponent multiscatter capture of dark matter<\em>. 2021. Phys. Rev. D 104, 083033.
+Recommended citation: C. Ilie and C. Levy. *Multicomponent multiscatter capture of dark matter*. 2021. Phys. Rev. D 104, 083033.
