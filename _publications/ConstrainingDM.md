@@ -6,8 +6,7 @@ excerpt: 'Dark matter (DM) can be trapped by the gravitational field of any star
 date: 2021-12-22
 venue: 'Physical Review D'
 paperurl: 'https://doi.org/10.1103/PhysRevD.104.123031'
-citation: 'C. Ilie, C. Levy, J. Pilawa, and S. Zhang. *Constraining Dark Matter properties with the first generation of stars*.
-2021. Phys. Rev. D 104, 123031.'
+citation: 'C. Ilie, C. Levy, J. Pilawa, and S. Zhang. Constraining Dark Matter properties with the first generation of stars. 2021. Phys. Rev. D 104, 123031.'
 ---
 
 [Download paper here](https://arxiv.org/pdf/2009.11474.pdf)
