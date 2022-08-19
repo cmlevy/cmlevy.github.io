@@ -11,5 +11,4 @@ citation: 'C. Ilie, C. Levy, J. Pilawa, and S. Zhang. Constraining Dark Matter p
 
 [Download paper here](https://arxiv.org/pdf/2009.11474.pdf)
 
-Recommended citation: C. Ilie, C. Levy, J. Pilawa, and S. Zhang. *Constraining Dark Matter properties with the first generation of stars*.
-2021. Phys. Rev. D 104, 123031.
+Recommended citation: C. Ilie, C. Levy, J. Pilawa, and S. Zhang. *Constraining Dark Matter properties with the first generation of stars*. 2021. Phys. Rev. D 104, 123031.
